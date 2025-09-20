@@ -8,7 +8,7 @@ This repository contains a comprehensive analysis and resolution guide for persi
 
 **Current Error:**
 ```
-503 - <![CDATA[POST https://fa-ewxl-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/shippingTransactions returned a response status of 503 Service Unavailable]]>
+503 - <![CDATA[POST https://xxxxxxxxxxxxxxxxxxxxxx.ocs.oraclecloud.com/fscmRestApi/resources/latest/shippingTransactions returned a response status of 503 Service Unavailable]]>
 ```
 
 **Duration:** 3+ days (persistent failure)  
